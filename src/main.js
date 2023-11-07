@@ -1,8 +1,15 @@
 /*
 Aniruddh Sindhu
 Shckiitzo
-8:30 
-creative tilt TBD
+16 hours
+
+Creative Tilt:
+Technical:
+I made it so that bullets spawn closer to the player depending on their position on the screen
+
+Visual:
+I was never an artisticly gifted person, so having to challenge myself with my own sprite creation made me proud of my game
+even if it may not look as good as others.
 */
 
 'use strict'
