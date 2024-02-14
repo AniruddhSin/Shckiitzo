@@ -5,11 +5,13 @@ Shckiitzo
 
 Creative Tilt:
 Technical:
-I made it so that bullets spawn closer to the player depending on their position on the screen
+I made it so that bullets spawn closer to the player depending on their position on the screen. I did not really
+look beyond class material but a new thing I did learn was to use a timer function with an event to make the game faster.
+I used Paddle Parkour as an inspiration for this.
 
 Visual:
-I was never an artisticly gifted person, so having to challenge myself with my own sprite creation made me proud of my game
-even if it may not look as good as others.
+I was never an artisticly gifted person, so having to challenge myself with my own sprite creation made me proud of my
+game even if it may not look as good as others. It may not be a good visual style, but it is all of my own design.
 */
 
 'use strict'
